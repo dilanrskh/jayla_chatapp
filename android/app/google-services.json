@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "361445902825",
+    "project_id": "pjschat-70782",
+    "storage_bucket": "pjschat-70782.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:361445902825:android:8fcc090e27159a3ea9a378",
+        "android_client_info": {
+          "package_name": "com.example.jayla_chatapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrUmIDBLpL-XjDPD54mHT_mwRmq04GMPg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
